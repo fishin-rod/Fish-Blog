@@ -1,0 +1,17 @@
+[book]
+authors = ["Connor"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Fishs Blog"
+description = "My blog about programming"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://github.com/fishin-rod"
+git-repository-icon = "fa-github"
+input-404 = "not-found.md"
+
+[output.html.playground]
+editable = true
+line-numbers = true
